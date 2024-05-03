@@ -5,7 +5,7 @@
   <a href="https://element.eleme.io/"> <img src="https://img.shields.io/badge/-Element UI-64BAFF?style=plastic&logo=Element&logoColor=FFFFFF" height="25px"> </a>
 </p> 
 
-化妆品公司主页web网页前端设计，基于node.js+vue+element-ui实现
+化妆品公司Amireux（千雀灵）主页web网页前端设计，基于node.js+vue+element-ui实现
 
 ### 依赖
 ```
